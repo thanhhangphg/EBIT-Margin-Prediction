@@ -25,4 +25,6 @@ source("requirements.R")
 
 ### 2) Knit the report
 
-Open `analysis/monte_carlo_simulation_project.Rmd` in RStudio and click **Knit**.
+Open `monte_carlo_simulation_project.Rmd` in RStudio and click **Knit**.
+
+The result is shown in `monte_carlo_simulation_result.pdf`.
