@@ -3,8 +3,8 @@
 Predicting firm profitability (EBIT margin) using financial ratios and ML models in R (tidymodels).
 
 ## Files
-- `monte_carlo_simulation_project.Rmd` – full analysis pipeline (data cleaning → feature engineering → modeling)
-- `monte_carlo_simulation_report.pdf` – final project report
+- `profit_prediction_project.Rmd` – full analysis pipeline (data cleaning → feature engineering → modeling)
+- `profit_prediction_report.pdf` – final project report
 - `automotive_industry_orbis_data.xlsx` – raw dataset (Orbis export)
 
 ## Methods (high level)
@@ -25,6 +25,6 @@ source("requirements.R")
 
 ### 2) Knit the report
 
-Open `monte_carlo_simulation_project.Rmd` in RStudio and click **Knit**.
+Open `profit_prediction_project.Rmd` in RStudio and click **Knit**.
 
-The result is shown in `monte_carlo_simulation_result.pdf`.
+The result is shown in `profit_prediction_result.pdf`.
